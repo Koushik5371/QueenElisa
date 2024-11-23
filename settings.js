@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==ANTl0ZtIFSrFFbKJ0NaNjNnRmaVVjcVZVcyY3doFXW5UWNRZnRxQlWnVDNjkERKBjakFlUpwd=458491655179',
+  SESSION_ID: 'QUEENELISA;;;==AMf91YxcmWRtmeU9kMUpnQxhkNGNUShJzZPNGSqhzSiR2RnZ2YN9lduFDUjQ1dil2dslkWpwd=458491655179',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -56,7 +56,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
   BUTTON_MESSAGES: true,
-  SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
+  SONG_DOWNLOAD_TYPE: 'selectable', // audio
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
